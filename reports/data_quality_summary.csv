@@ -1,0 +1,2 @@
+total_rows,distinct_stock_codes,missing_descriptions,missing_customer_ids,negative_quantity_rows,nonpositive_price_rows,cancellation_rows
+541909,3958,1454.0,135080.0,10624.0,2517.0,9288.0
